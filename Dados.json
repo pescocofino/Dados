@@ -1,0 +1,66 @@
+{
+    "jogos_populares": {
+      "global": [
+        "League of Legends",
+        "Dota 2",
+        "Counter-Strike: Global Offensive",
+        "PUBG Mobile",
+        "Call of Duty: Mobile",
+        "Genshin Impact",
+        "FIFA",
+        "Minecraft",
+        "Fortnite"
+      ],
+      "brasil": [
+        "Free Fire",
+        "League of Legends: Wild Rift",
+        "Clash Royale",
+        "FIFA",
+        "Call of Duty"
+      ]
+    },
+    "comparacao": {
+      "pc": {
+        "global": [
+          "League of Legends",
+          "Dota 2",
+          "Counter-Strike: Global Offensive"
+        ],
+        "brasil": [
+          "League of Legends",
+          "Free Fire",
+          "Counter-Strike"
+        ],
+        "observacoes": "No Brasil, Free Fire se destaca por ser acessível a dispositivos mais simples."
+      },
+      "celular": {
+        "global": [
+          "PUBG Mobile",
+          "Call of Duty: Mobile",
+          "Genshin Impact"
+        ],
+        "brasil": [
+          "Free Fire",
+          "League of Legends: Wild Rift",
+          "Clash Royale"
+        ],
+        "observacoes": "A popularidade de Free Fire no Brasil reflete preferências regionais."
+      },
+      "console": {
+        "global": [
+          "Call of Duty",
+          "FIFA",
+          "Minecraft",
+          "Fortnite"
+        ],
+        "brasil": [
+          "FIFA",
+          "Call of Duty",
+          "Resident Evil",
+          "The Last of Us"
+        ],
+        "observacoes": "Os jogos de esporte têm uma forte base de fãs no Brasil."
+      }
+    }
+  }
+  
